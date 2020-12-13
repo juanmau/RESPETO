@@ -15,8 +15,7 @@
     <div class=”barra-lateral”> </div>
     <h1>¿Que es?</h1>
     <p>El respeto es la consideración y valoración especial que se le tiene a alguien o a algo, al que se le reconoce valor social o especial diferencia. También es uno de los valores fundamentales que el ser humano debe tener siempre presente a la hora de interactuar con personas de su entorno</p>
-    <div class=”contenido”>
-    </div>
+    
     <h1>¿Por que es importante?</h1>
     <ul>
         <li>Saber respetar a los demás es esencial, pues representa valorar y tolerar las diferencias y comprender que ellas nos hacen crecer. </li>
