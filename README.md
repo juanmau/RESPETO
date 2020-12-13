@@ -1,5 +1,5 @@
 # RESPETO
-actividad 1 e2
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -43,7 +43,6 @@ actividad 1 e2
         <li>Sin respeto no habria paz y el mundo seria un caoz</li>
     </ul>
     <h1>BIBLIOGRAFIA</h1>
-    <a href="https://es.wikipedia.org/wiki/Respeto.">EL RESPETO</a>
     
 
 
